@@ -7,7 +7,7 @@
   $servername = "localhost";
   $username = "root";
   $password = "";
-  $dbname = "db1";
+  $dbname = "db3";
 
   try {
     // connect to MYSQL Database using PDO
