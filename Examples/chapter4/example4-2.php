@@ -8,7 +8,7 @@
   $username = "root";
   $password = "";
   $dbname = "db4";
-
+//
   try {
     // connect to MYSQL Database using PDO
     $pdo = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
